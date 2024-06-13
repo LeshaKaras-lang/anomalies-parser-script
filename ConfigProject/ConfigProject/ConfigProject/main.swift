@@ -10,7 +10,7 @@ import Foundation
 typealias ProjectPath = String
 let anomalyConfigFolderName: String = "AnomalyConfigs"
 let anomalyDataFolderName: String = "AnomalyData"
-var projectPath: String? = "/Users/oleksii/Desktop/Configs"
+var projectPath: String? = "/Users/oleksii/Projects/Configs"
 
 func start() {
     if projectPath == nil {
