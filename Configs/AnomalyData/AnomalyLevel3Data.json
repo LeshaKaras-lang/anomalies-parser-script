@@ -1,109 +1,52 @@
 [
     {
-        "anomalyName":"Electra",
-        "anomalyCount": 100,
+        "anomalyName":"Jarka",
+        "anomalyCount": 4,
         "ArtefactsWithoutDetector": {
             "SpawnChancePercent": 50,
             "SpawnDistance_Min": 2.0,
             "SpawnDistance_Max": 5.0,
-            "ArtefactsData": [
-                {
-                    "ArtefactClassName": "DZRP_Artefact_Soul",
-                    "ArtefactSpawnChancePercent": 5
-                },
-                {
-                    "ArtefactClassName": "DZRP_Artefact_NightStar",
-                    "ArtefactSpawnChancePercent": 5
-                },
-                {
-                    "ArtefactClassName": "DZRP_Artefact_Meat",
-                    "ArtefactSpawnChancePercent": 5
-                },
-                {
-                    "ArtefactClassName": "DZRP_Artefact_Medusa",
-                    "ArtefactSpawnChancePercent": 5
-                },
-                {
-                    "ArtefactClassName": "DZRP_Artefact_Ice",
-                    "ArtefactSpawnChancePercent": 5
-                },
-                {
-                    "ArtefactClassName": "DZRP_Artefact_Gravi",
-                    "ArtefactSpawnChancePercent": 5
-                },
-                {
-                    "ArtefactClassName": "DZRP_Artefact_GoldFish",
-                    "ArtefactSpawnChancePercent": 5
-                },
-                {
-                    "ArtefactClassName": "DZRP_Artefact_Kolobok",
-                    "ArtefactSpawnChancePercent": 5
-                },
-                {
-                    "ArtefactClassName": "DZRP_Artefact_FireBall",
-                    "ArtefactSpawnChancePercent": 5
-                },
-                {
-                    "ArtefactClassName": "DZRP_Artefact_Fire",
-                    "ArtefactSpawnChancePercent": 5
-                },
-                {
-                    "ArtefactClassName": "DZRP_Artefact_Glaz",
-                    "ArtefactSpawnChancePercent": 5
-                },
-                {
-                    "ArtefactClassName": "DZRP_Artefact_Sliz",
-                    "ArtefactSpawnChancePercent": 5
-                },
-                {
-                    "ArtefactClassName": "DZRP_Artefact_MoonLight",
-                    "ArtefactSpawnChancePercent": 5
-                },
-                {
-                    "ArtefactClassName": "DZRP_Artefact_Flash",
-                    "ArtefactSpawnChancePercent": 5
-                },
-                {
-                    "ArtefactClassName": "DZRP_Artefact_MamaBus",
-                    "ArtefactSpawnChancePercent": 5
-                },
-                {
-                    "ArtefactClassName": "DZRP_Artefact_Pusto",
-                    "ArtefactSpawnChancePercent": 5
-                },
-                {
-                    "ArtefactClassName": "DZRP_Artefact_Battery",
-                    "ArtefactSpawnChancePercent": 5
-                },
-                {
-                    "ArtefactClassName": "DZRP_Artefact_Oasis",
-                    "ArtefactSpawnChancePercent": 5
-                },
-                {
-                    "ArtefactClassName": "DZRP_Artefact_StoneFlower",
-                    "ArtefactSpawnChancePercent": 5
-                },
-                {
-                    "ArtefactClassName": "DZRP_Artefact_Cristall",
-                    "ArtefactSpawnChancePercent": 5
-                },
-                {
-                    "ArtefactClassName": "DZRP_Artefact_Compas",
-                    "ArtefactSpawnChancePercent": 5
-                },
-                {
-                    "ArtefactClassName": "DZRP_Artefact_Blood",
-                    "ArtefactSpawnChancePercent": 5
-                },
-                {
-                    "ArtefactClassName": "DZRP_Artefact_Vyvert1",
-                    "ArtefactSpawnChancePercent": 5
-                },
-                {
-                    "ArtefactClassName": "DZRP_Artefact_MutadeCompass",
-                    "ArtefactSpawnChancePercent": 5
-                }
-            ]
+            "ArtefactsData": []
+        }
+    },
+    {
+        "anomalyName":"Par",
+        "anomalyCount": 4,
+        "ArtefactsWithoutDetector": {
+            "SpawnChancePercent": 50,
+            "SpawnDistance_Min": 2.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": []
+        }
+    },
+    {
+        "anomalyName":"Electra",
+        "anomalyCount": 4,
+        "ArtefactsWithoutDetector": {
+            "SpawnChancePercent": 50,
+            "SpawnDistance_Min": 2.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": []
+        }
+    },
+    {
+        "anomalyName":"Tramplin",
+        "anomalyCount": 4,
+        "ArtefactsWithoutDetector": {
+            "SpawnChancePercent": 50,
+            "SpawnDistance_Min": 2.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": []
+        }
+    },
+    {
+        "anomalyName":"Kisel",
+        "anomalyCount": 4,
+        "ArtefactsWithoutDetector": {
+            "SpawnChancePercent": 50,
+            "SpawnDistance_Min": 2.0,
+            "SpawnDistance_Max": 5.0,
+            "ArtefactsData": []
         }
     }
 ]
