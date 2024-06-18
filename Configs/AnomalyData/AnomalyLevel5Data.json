@@ -1,52 +1,161 @@
 [
     {
-        "anomalyName":"Jarka",
-        "anomalyCount": 4,
+        "anomalyName": "Jarka",
+        "anomalyCount": 6,
         "ArtefactsWithoutDetector": {
             "SpawnChancePercent": 50,
-            "SpawnDistance_Min": 2.0,
-            "SpawnDistance_Max": 5.0,
-            "ArtefactsData": []
+            "SpawnDistance_Min": 2,
+            "SpawnDistance_Max": 5,
+            "ArtefactsData": [
+                {
+                    "ArtefactClassName": "SK713_shar",
+                    "ArtefactSpawnChancePercent": 15
+                },
+                {
+                    "ArtefactClassName": "SK713_busy",
+                    "ArtefactSpawnChancePercent": 10
+                },
+                {
+                    "ArtefactClassName": "SK713_glaz",
+                    "ArtefactSpawnChancePercent": 10
+                },
+                {
+                    "ArtefactClassName": "SK713_plamya",
+                    "ArtefactSpawnChancePercent": 5
+                }
+            ]
         }
     },
     {
-        "anomalyName":"Par",
-        "anomalyCount": 4,
+        "anomalyName": "Par",
+        "anomalyCount": 6,
         "ArtefactsWithoutDetector": {
             "SpawnChancePercent": 50,
-            "SpawnDistance_Min": 2.0,
-            "SpawnDistance_Max": 5.0,
-            "ArtefactsData": []
+            "SpawnDistance_Min": 2,
+            "SpawnDistance_Max": 5,
+            "ArtefactsData": [
+                {
+                    "ArtefactClassName": "SK713_kristal",
+                    "ArtefactSpawnChancePercent": 15
+                },
+                {
+                    "ArtefactClassName": "SK713_dusha",
+                    "ArtefactSpawnChancePercent": 7
+                },
+                {
+                    "ArtefactClassName": "SK713_svet",
+                    "ArtefactSpawnChancePercent": 7
+                },
+                {
+                    "ArtefactClassName": "SK713_zvezda",
+                    "ArtefactSpawnChancePercent": 5
+                },
+                {
+                    "ArtefactClassName": "SK713_shturval",
+                    "ArtefactSpawnChancePercent": 2
+                }
+            ]
         }
     },
     {
-        "anomalyName":"Electra",
-        "anomalyCount": 4,
+        "anomalyName": "Electra",
+        "anomalyCount": 6,
         "ArtefactsWithoutDetector": {
             "SpawnChancePercent": 50,
-            "SpawnDistance_Min": 2.0,
-            "SpawnDistance_Max": 5.0,
-            "ArtefactsData": []
+            "SpawnDistance_Min": 2,
+            "SpawnDistance_Max": 5,
+            "ArtefactsData": [
+                {
+                    "ArtefactClassName": "SK713_pustishka",
+                    "ArtefactSpawnChancePercent": 10
+                },
+                {
+                    "ArtefactClassName": "SK713_batareyka",
+                    "ArtefactSpawnChancePercent": 10
+                },
+                {
+                    "ArtefactClassName": "SK713_vspishka",
+                    "ArtefactSpawnChancePercent": 7
+                },
+                {
+                    "ArtefactClassName": "SK713_snejinka",
+                    "ArtefactSpawnChancePercent": 5
+                },
+                {
+                    "ArtefactClassName": "SK713_isolator",
+                    "ArtefactSpawnChancePercent": 2
+                },
+                {
+                    "ArtefactClassName": "SK713_kompas",
+                    "ArtefactSpawnChancePercent": 2
+                }
+            ]
         }
     },
     {
-        "anomalyName":"Tramplin",
-        "anomalyCount": 4,
+        "anomalyName": "Tramplin",
+        "anomalyCount": 6,
         "ArtefactsWithoutDetector": {
             "SpawnChancePercent": 50,
-            "SpawnDistance_Min": 2.0,
-            "SpawnDistance_Max": 5.0,
-            "ArtefactsData": []
+            "SpawnDistance_Min": 2,
+            "SpawnDistance_Max": 5,
+            "ArtefactsData": [
+                {
+                    "ArtefactClassName": "SK713_kameniy_cvetok",
+                    "ArtefactSpawnChancePercent": 15
+                },
+                {
+                    "ArtefactClassName": "SK713_meduza",
+                    "ArtefactSpawnChancePercent": 15
+                },
+                {
+                    "ArtefactClassName": "SK713_krov_kamnya",
+                    "ArtefactSpawnChancePercent": 10
+                },
+                {
+                    "ArtefactClassName": "SK713_vivert",
+                    "ArtefactSpawnChancePercent": 7
+                },
+                {
+                    "ArtefactClassName": "SK713_gravi",
+                    "ArtefactSpawnChancePercent": 5
+                },
+                {
+                    "ArtefactClassName": "SK713_ribka",
+                    "ArtefactSpawnChancePercent": 2
+                }
+            ]
         }
     },
     {
-        "anomalyName":"Kisel",
-        "anomalyCount": 4,
+        "anomalyName": "Kisel",
+        "anomalyCount": 6,
         "ArtefactsWithoutDetector": {
             "SpawnChancePercent": 50,
-            "SpawnDistance_Min": 2.0,
-            "SpawnDistance_Max": 5.0,
-            "ArtefactsData": []
+            "SpawnDistance_Min": 2,
+            "SpawnDistance_Max": 5,
+            "ArtefactsData": [
+                {
+                    "ArtefactClassName": "SK713_myaso",
+                    "ArtefactSpawnChancePercent": 7
+                },
+                {
+                    "ArtefactClassName": "SK713_puzir",
+                    "ArtefactSpawnChancePercent": 5
+                },
+                {
+                    "ArtefactClassName": "SK713_kolobok",
+                    "ArtefactSpawnChancePercent": 5
+                },
+                {
+                    "ArtefactClassName": "SK713_plenka",
+                    "ArtefactSpawnChancePercent": 2
+                },
+                {
+                    "ArtefactClassName": "SK713_oasis",
+                    "ArtefactSpawnChancePercent": 2
+                }
+            ]
         }
     }
 ]

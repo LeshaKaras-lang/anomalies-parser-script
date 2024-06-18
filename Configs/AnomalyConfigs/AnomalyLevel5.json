@@ -1,7 +1,7 @@
 {
     "zoneType": "Box",
     "zoneRadius": 100,
-    "distanceBTWAnomaly": 10,
+    "distanceBTWAnomaly": 6,
     "anomalyData": "AnomalyLevel5Data.json",
     "position": [
         {
