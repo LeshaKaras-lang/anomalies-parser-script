@@ -2,10 +2,8 @@
     {
         "anomalyName": "Jarka",
         "anomalyCount": 6,
-        "ArtefactsWithoutDetector": {
+        "ArtefactsWithDetector": {
             "SpawnChancePercent": 50,
-            "SpawnDistance_Min": 2,
-            "SpawnDistance_Max": 5,
             "ArtefactsData": [
                 {
                     "ArtefactClassName": "SK713_shar",
@@ -17,10 +15,8 @@
     {
         "anomalyName": "Par",
         "anomalyCount": 6,
-        "ArtefactsWithoutDetector": {
+        "ArtefactsWithDetector": {
             "SpawnChancePercent": 50,
-            "SpawnDistance_Min": 2,
-            "SpawnDistance_Max": 5,
             "ArtefactsData": [
                 {
                     "ArtefactClassName": "SK713_kristal",
@@ -32,20 +28,16 @@
     {
         "anomalyName": "Electra",
         "anomalyCount": 6,
-        "ArtefactsWithoutDetector": {
+        "ArtefactsWithDetector": {
             "SpawnChancePercent": 50,
-            "SpawnDistance_Min": 2,
-            "SpawnDistance_Max": 5,
             "ArtefactsData": []
         }
     },
     {
         "anomalyName": "Tramplin",
         "anomalyCount": 6,
-        "ArtefactsWithoutDetector": {
+        "ArtefactsWithDetector": {
             "SpawnChancePercent": 50,
-            "SpawnDistance_Min": 2,
-            "SpawnDistance_Max": 5,
             "ArtefactsData": [
                 {
                     "ArtefactClassName": "SK713_kameniy_cvetok",
@@ -61,10 +53,8 @@
     {
         "anomalyName": "Kisel",
         "anomalyCount": 6,
-        "ArtefactsWithoutDetector": {
+        "ArtefactsWithDetector": {
             "SpawnChancePercent": 50,
-            "SpawnDistance_Min": 2,
-            "SpawnDistance_Max": 5,
             "ArtefactsData": []
         }
     }
