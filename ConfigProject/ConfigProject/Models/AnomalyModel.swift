@@ -16,6 +16,6 @@ struct AnomalyModel: Decodable {
 }
 
 struct AnomalyModelPosition: Decodable {
-    let position: String
+    let position: [Double]
     let comment: String
 }

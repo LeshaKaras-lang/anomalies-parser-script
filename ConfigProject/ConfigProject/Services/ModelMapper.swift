@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct AnomalyModelMapper {
+final class AnomalyModelMapper {
     func mapToString(_ models: [AnomalyModel]) -> String {
         let allConfigs: [String] =  models.flatMap { mapToConfigStrings($0) }
         return "[" + allConfigs.joined(separator: ",") + "]"
