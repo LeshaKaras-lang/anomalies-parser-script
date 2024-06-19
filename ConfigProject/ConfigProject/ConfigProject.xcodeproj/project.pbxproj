@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		49878F312C22BDFC00947655 /* FileSaver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49878F302C22BDFC00947655 /* FileSaver.swift */; };
 		49B018C62C120E66006D019D /* LoadDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49B018C52C120E66006D019D /* LoadDataService.swift */; };
 		49E14E212C124B6E00ECADCB /* ContentLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49E14E202C124B6E00ECADCB /* ContentLoader.swift */; };
 		49E14E232C124BC600ECADCB /* InputHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49E14E222C124BC600ECADCB /* InputHelper.swift */; };
@@ -31,6 +32,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		49878F302C22BDFC00947655 /* FileSaver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileSaver.swift; sourceTree = "<group>"; };
 		49B018C52C120E66006D019D /* LoadDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadDataService.swift; sourceTree = "<group>"; };
 		49E14E202C124B6E00ECADCB /* ContentLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentLoader.swift; sourceTree = "<group>"; };
 		49E14E222C124BC600ECADCB /* InputHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InputHelper.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 		49E14E1F2C1218FE00ECADCB /* Services */ = {
 			isa = PBXGroup;
 			children = (
+				49878F302C22BDFC00947655 /* FileSaver.swift */,
 				49E14E202C124B6E00ECADCB /* ContentLoader.swift */,
 				49B018C52C120E66006D019D /* LoadDataService.swift */,
 				49E14E222C124BC600ECADCB /* InputHelper.swift */,
@@ -173,6 +176,7 @@
 				49E14E212C124B6E00ECADCB /* ContentLoader.swift in Sources */,
 				49F2D4352C1201770085F6D8 /* main.swift in Sources */,
 				49E14E232C124BC600ECADCB /* InputHelper.swift in Sources */,
+				49878F312C22BDFC00947655 /* FileSaver.swift in Sources */,
 				49E14E2B2C12616700ECADCB /* DynamicAnomaly.swift in Sources */,
 				49B018C62C120E66006D019D /* LoadDataService.swift in Sources */,
 				49E14E312C12619C00ECADCB /* SwiftJSONFormatter.swift in Sources */,

@@ -21,27 +21,14 @@ func start() {
     
     do {
         let fileNames: [String] = try LoadDataService.loadAnomalyFileNames(projectPath)
-        let models = ContentLoader(path: projectPath, fileNames: fileNames).getAnomalyModels()
-        let config: String = AnomalyModelMapper().mapToString(models)
-        let jsonConfig = SwiftJSONFormatter.beautify(config)
-        
-        let filename = getPathFor(path: projectPath)?.appendingPathComponent("DynamicAnomalies.json")
-
-        do {
-            try jsonConfig.write(to: filename!, atomically: true, encoding: .utf8)
-        } catch {
-            print(error)
-        }
-        
+        let models: [AnomalyModel] = ContentLoader(path: projectPath, fileNames: fileNames).getAnomalyModels()
+        let json: String = AnomalyModelMapper().mapToJson(models)
+        let beautifyJson: String = SwiftJSONFormatter.beautify(json)
+        try FileSaver().saveJsonAsFile(path: projectPath, json: beautifyJson)
         print("SUCCESS")
     } catch {
         print(error.localizedDescription)
     }
-}
-
-func getPathFor(path projectPath: String) -> URL? {
-    let filePrifix: String = "file://"
-    return URL(string: filePrifix + projectPath)
 }
 
 start()
